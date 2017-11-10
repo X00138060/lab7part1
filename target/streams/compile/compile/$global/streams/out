@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/playLABS2017/conf/routes:4:1: Cannot use a method returning com.sun.corba.se.spi.orbutil.fsm.Guard.Result as a Handler for requests[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /                     controllers.HomeController.index[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/playLABS2017/conf/routes:4:1: not enough arguments for method createInvoker: (implicit hif: play.core.routing.HandlerInvokerFactory[com.sun.corba.se.spi.orbutil.fsm.Guard.Result])play.core.routing.HandlerInvoker[com.sun.corba.se.spi.orbutil.fsm.Guard.Result].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter hif.[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /                     controllers.HomeController.index[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/playLABS2017/conf/routes:5:1: Cannot use a method returning com.sun.corba.se.spi.orbutil.fsm.Guard.Result as a Handler for requests[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /about                controllers.HomeController.about[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/playLABS2017/conf/routes:5:1: not enough arguments for method createInvoker: (implicit hif: play.core.routing.HandlerInvokerFactory[com.sun.corba.se.spi.orbutil.fsm.Guard.Result])play.core.routing.HandlerInvoker[com.sun.corba.se.spi.orbutil.fsm.Guard.Result].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter hif.[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /about                controllers.HomeController.about[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/playLABS2017/conf/routes:6:1: Cannot use a method returning com.sun.corba.se.spi.orbutil.fsm.Guard.Result as a Handler for requests[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /products             controllers.HomeController.products[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/play-java-seed/playLABS2017/conf/routes:6:1: not enough arguments for method createInvoker: (implicit hif: play.core.routing.HandlerInvokerFactory[com.sun.corba.se.spi.orbutil.fsm.Guard.Result])play.core.routing.HandlerInvoker[com.sun.corba.se.spi.orbutil.fsm.Guard.Result].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter hif.[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /products             controllers.HomeController.products[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
